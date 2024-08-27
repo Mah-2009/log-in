@@ -130,3 +130,6 @@ i {
 input {
     color: white;
 }
+a:hover{
+    text-decoration:underline;
+}
